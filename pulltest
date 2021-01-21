@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main(){
+
+char input [40];
+
+printf("max 20 karakter beolvasás");
+
+scanf("%39s",&input);
+
+printf("visszahányás: %s",input);
+
+return 0;
+}
