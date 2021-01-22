@@ -1,0 +1,23 @@
+{
+  "name": "firestarter",
+  "version": "1.0.0",
+  "description": "test to see if my hello world goes through and if it does, then how so",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrognarLynn/firestarter.git"
+  },
+  "keywords": [
+    "test",
+    "firstgit"
+  ],
+  "author": "Prognar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrognarLynn/firestarter/issues"
+  },
+  "homepage": "https://github.com/PrognarLynn/firestarter#readme"
+}
